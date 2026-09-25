@@ -18,3 +18,4 @@ This repository houses the data analysis pipeline, scripts, and visual reports d
 2. Install the required Python libraries:
    ```bash
    pip install pandas matplotlib openpyxl seaborn
+[decumentation the steps.docx](https://github.com/user-attachments/files/32640240/decumentation.the.steps.docx)
